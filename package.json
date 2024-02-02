@@ -1,0 +1,25 @@
+{
+  "name": "vega",
+  "type": "module",
+  "version": "0.1.0",
+  "description": "",
+  "main": "JsPlayer.js",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/plugin-syntax-import-assertions": "^7.22.5",
+    "@babel/preset-env": "^7.22.14"
+  },
+  "dependencies": {
+    "css-font-parser": "^2.0.0",
+    "cssstyle": "^3.0.0",
+    "fontkit": "^2.0.2",
+    "glob": "^10.3.4",
+    "iconv-lite": "^0.6.3",
+    "node-system-fonts": "^1.0.1",
+    "rrweb-cssom": "^0.6.0",
+    "simple-get": "^4.0.1",
+    "string-split-by": "^1.0.0",
+    "uuid": "^9.0.1"
+  }
+}
